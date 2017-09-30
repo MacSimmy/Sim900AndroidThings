@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sim900Sample</string>
+    <string name="title_activity_send_sms">SendSmsActivity</string>
+</resources>
